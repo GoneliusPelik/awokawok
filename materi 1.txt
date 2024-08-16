@@ -1,0 +1,33 @@
+By: Kak Erlang
+
+pembelajaran devvaccto, 3 dasar dari website
+website:
+1. http= hypertext transfer protocol
+2. html= hypertext markup language 
+3. uri= uniform resource identifier
+
+
+Http ada yang namanya method
+utamanaya ada 4 method
+-get()
+-post()
+-put()
+-delate()
+
+
+kalau server tidak merespon berarti ada suatu error
+
+code status 
+2xx = berhasil
+4xx = kesalahan user
+5xx = kesalahan server
+
+
+ketika data berhasil dikirim kodenya akan menjadi 
+status code:
+201 = respon success
+403 = forbidden = tidak di perbolehkan karena tidak ada crudential 
+401 = autorization boleh mengakses tetapi credential tidak valid
+404 = site found
+501 = server error
+503 = service unavilable 

@@ -1,0 +1,13 @@
+Version control
+
+sebelum ada version system
+-revisi
+-banyak file
+
+version control system
+vrsiom control adalah sebuah system yang merekam perubahan pada file dari waktu ke watu, 
+sehingga kita bisa melihat versi sebelumnya jika diinginkan. version control dapat mendukung
+untuk berbagai jenis file. 
+
+ECHO = fungsi echo adalah untuk menampilkan atau mengembalikan teks.
+git init = 
